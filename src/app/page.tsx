@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="container mx-auto flex justify-center p-24">
       <h1>Recipe Roam</h1>
     </main>
   );
